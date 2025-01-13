@@ -37,14 +37,6 @@ This project focuses on achieving sustainable and inclusive economic, residentia
 - **Proposed Solutions:** Practical steps to restore and sustain coastal and marine ecosystems.  
 - **Conclusion:** Strategic approaches to balance development and conservation for a sustainable ocean economy.
 
----
 
-## 🔗 Download the Full Report
 
-[Download the Full Report](./Report%20Model.docx)
 
----
-
-## 🌐 Reference
-
-[High-Level Panel for a Sustainable Ocean Economy](https://oceanpanel.org)
