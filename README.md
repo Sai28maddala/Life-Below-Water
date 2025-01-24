@@ -3,19 +3,6 @@
 
 ### **Sustainable Development Goal: Life Below Water**
 
-**Project Title:** Conserve Coastal and Marine Areas  
-**Submitted by:**  
-- K. Harsha Varshan Naidu  
-- M. Varun Nihar  
-- M. Sai Lakshmi  
-- R. Chinna Ranga Swamy Reddy  
-
-**Supervisor:** Dr. Amlan Kanti Halder, Assistant Professor of Mathematics, Woxsen University, Hyderabad  
-
-**Submission Date:** November 2023  
-
----
-
 ## 📄 Project Overview
 
 This project focuses on achieving sustainable and inclusive economic, residential, and environmental growth through the preservation and protection of coastal and marine ecosystems. These ecosystems are critical to the livelihoods of millions and support diverse industries such as tourism and small-scale fishing. However, they face threats from climate change, urbanization, and overexploitation.
